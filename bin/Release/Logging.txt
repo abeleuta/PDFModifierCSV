@@ -1,0 +1,52 @@
+18-Apr-19 3:40:38 PM: Processing file:C:\Users\Andrei\Downloads\batch_instructions1.csv
+18-Apr-19 3:40:38 PM: Creating PDF file:C:\Users\Andrei\Downloads\projects\828\output\83041926.pdf
+18-Apr-19 3:40:39 PM: Failed to add image to PDF. Image path:C:\Users\Andrei\Downloads\projects\828\input\4957095.BIN
+18-Apr-19 3:40:39 PM: Failed to add image to PDF. Image path:C:\Users\Andrei\Downloads\projects\828\input\4957096.BIN
+18-Apr-19 3:40:39 PM: Failed to add image to PDF. Image path:C:\Users\Andrei\Downloads\projects\828\input\4957097.BIN
+18-Apr-19 3:40:39 PM: PDF not created as no image found.
+18-Apr-19 5:25:42 PM: Processing file:C:\Users\Andrei\Downloads\batch_instructions1.csv
+18-Apr-19 5:25:42 PM: Creating PDF file:C:\Users\Andrei\Downloads\80281194.pdf
+18-Apr-19 5:25:42 PM: PDF not created as no image found.
+18-Apr-19 5:25:42 PM: Creating PDF file:C:\Users\Andrei\Downloads\80282980.pdf
+18-Apr-19 5:25:43 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 5:25:43 PM: PDF not created as no image found.
+18-Apr-19 5:25:43 PM: Creating PDF file:C:\Users\Andrei\Downloads\80351241.pdf
+18-Apr-19 5:25:43 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 5:25:43 PM: PDF not created as no image found.
+18-Apr-19 5:25:43 PM: Creating PDF file:C:\Users\Andrei\Downloads\80417915.pdf
+18-Apr-19 5:25:43 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 5:25:43 PM: PDF not created as no image found.
+18-Apr-19 5:25:43 PM: Creating PDF file:C:\Users\Andrei\Downloads\80465628.pdf
+18-Apr-19 5:25:43 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 5:25:43 PM: PDF not created as no image found.
+18-Apr-19 6:19:55 PM: Processing file:C:\Users\Andrei\Downloads\batch_instructions1.csv
+18-Apr-19 6:19:55 PM: Creating PDF file:C:\Users\Andrei\Downloads\80281194.pdf
+18-Apr-19 6:19:56 PM: PDF not created as no image found.
+18-Apr-19 6:19:56 PM: Creating PDF file:C:\Users\Andrei\Downloads\80282980.pdf
+18-Apr-19 6:19:56 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:19:56 PM: PDF not created as no image found.
+18-Apr-19 6:19:56 PM: Creating PDF file:C:\Users\Andrei\Downloads\80351241.pdf
+18-Apr-19 6:19:56 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:19:56 PM: PDF not created as no image found.
+18-Apr-19 6:19:56 PM: Creating PDF file:C:\Users\Andrei\Downloads\80417915.pdf
+18-Apr-19 6:19:56 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:19:56 PM: PDF not created as no image found.
+18-Apr-19 6:19:56 PM: Creating PDF file:C:\Users\Andrei\Downloads\80465628.pdf
+18-Apr-19 6:19:56 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:19:56 PM: PDF not created as no image found.
+18-Apr-19 6:19:59 PM: Processing file:C:\Users\Andrei\Downloads\batch_instructions1.csv
+18-Apr-19 6:19:59 PM: Creating PDF file:C:\Users\Andrei\Downloads\80281194.pdf
+18-Apr-19 6:19:59 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:19:59 PM: PDF not created as no image found.
+18-Apr-19 6:19:59 PM: Creating PDF file:C:\Users\Andrei\Downloads\80282980.pdf
+18-Apr-19 6:20:00 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:20:00 PM: PDF not created as no image found.
+18-Apr-19 6:20:00 PM: Creating PDF file:C:\Users\Andrei\Downloads\80351241.pdf
+18-Apr-19 6:20:00 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:20:00 PM: PDF not created as no image found.
+18-Apr-19 6:20:00 PM: Creating PDF file:C:\Users\Andrei\Downloads\80417915.pdf
+18-Apr-19 6:20:00 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:20:00 PM: PDF not created as no image found.
+18-Apr-19 6:20:00 PM: Creating PDF file:C:\Users\Andrei\Downloads\80465628.pdf
+18-Apr-19 6:20:00 PM: Failed to add image to PDF. Image path:a
+18-Apr-19 6:20:00 PM: PDF not created as no image found.

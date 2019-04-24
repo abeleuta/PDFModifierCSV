@@ -1,0 +1,13 @@
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\PDFModifierCSV.exe.config
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\PDFModifierCSV.exe
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\PDFModifierCSV.pdb
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.Properties.Resources.resources
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.csproj.GenerateResource.Cache
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.exe
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.pdb
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.csprojResolveAssemblyReference.cache
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\itextsharp.dll
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\itextsharp.xml
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\Ghostscript.NET.dll
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\bin\Debug\Ghostscript.NET.xml
+D:\Work\VC++\PDFCreator\PDFCreator\PDFModifierCSV\obj\Debug\PDFModifierCSV.mainForm.resources
